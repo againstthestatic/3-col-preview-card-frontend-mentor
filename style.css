@@ -52,6 +52,8 @@ main {
 }
 
 .content {
+  position: absolute;
+  top: 25%;
   width: 920px;
   height: 500px;
   border-radius: 0.5em;
